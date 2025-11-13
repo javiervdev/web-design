@@ -1,0 +1,48 @@
+ /*Estilo de <body>*/
+        body { 
+            background-color: rgb(255, 255, 255);
+            color: black;
+            font-family: "Verdana";
+        }
+
+        .images {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .selector-option {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .option {
+            font-family: "Arial";
+            padding: 0.8em 0;  
+            flex: 0.2
+        }
+
+        h1 {
+            font-family: "Arial";
+        }
+
+        h3 {
+            font-family: "Arial";
+        }
+
+        p {
+            font-family: "Verdana";
+        }
+
+        .index {
+            margin-bottom: 10px;
+        }
+
+        hr {
+            border: 0.5px solid
+        }
+
+    
