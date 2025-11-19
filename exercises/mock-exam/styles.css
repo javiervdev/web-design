@@ -12,6 +12,7 @@
             text-align: center;
         }
 
+
         .selector-option {
             display: flex;
             justify-content: center;
@@ -45,4 +46,27 @@
             border: 0.5px solid
         }
 
-    
+        table{
+            border-collapse: collapse;
+            
+
+        }
+
+        th{
+            border: 1px solid black;
+            background-color: rgb(225, 0, 0);
+        }
+
+         td{
+            border: 1px solid black;
+            background-color: rgb(150, 150, 150);
+        }
+
+        fieldset{
+            background-color: rgb(176, 176, 255);
+        }
+
+        legend{
+            border: 2px solid black;
+            background-color: white;
+        }
